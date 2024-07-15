@@ -52,8 +52,6 @@ Dữ liệu<br>
 N dòng tiếp theo, dòng thứ i chứa một số nguyên duy nhất vị là lợi nhuận sau khi chọn dự án thứ i, trong đó vì ≤ 2* 109<br>
 Kết quả<br>
 In ra một số nguyên duy nhất là lợi nhuận lớn nhất có thể được.<br>
-Sub Task<br>
-Subtask 1 (70% số điểm) N ≤ 104, subtask 2 không giới hạn gì thêm.<br>
 Ví dụ<br>
 Input<br>
 5 2<br>
